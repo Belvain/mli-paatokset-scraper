@@ -1,0 +1,15 @@
+{
+    "name": "MikkeliScraper",
+    "version": "0.0.0",
+    "description": "MikkeliScraper",
+    "main": "app.js",
+    "author": {
+        "name": "Belvain",
+        "email": ""
+    },
+    "dependencies": {
+    	"request" : "*",
+    	"cheerio" : "*",
+    	"mongoose" : "*"
+    }
+}
