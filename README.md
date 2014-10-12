@@ -2,15 +2,16 @@
 
 # MikkeliScraper
 
+Project started at API hackathon Mikkeli.
 
 
 ## Usage
 
-
+Purpose of this tool is to collect data about decision making in the city of Mikkeli
 
 ## Developing
 
-
+This tool is not completed yet, it has some bugs and some features still need to be implemented.
 
 ### Tools
 
